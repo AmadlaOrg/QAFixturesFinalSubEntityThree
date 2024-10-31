@@ -1,0 +1,13 @@
+---
+_meta:
+  _entity: "github.com/AmadlaOrg/Entity@latest"
+  _body:
+    name: QAFixturesFinalSubEntityThree
+    description: QA Fixtures Final Sub Entity Three definitions.
+    category: QA
+    tags:
+      - QA
+      - fixture
+      - test
+_body:
+  big-message: Simple message...
